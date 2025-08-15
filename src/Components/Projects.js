@@ -47,7 +47,7 @@ function Projects(){
  <a href="../to_do_list.html"className="flip">
   <div className="inner">
     <div className="img">
-      <img src="/Thoughtful Quotes to Comfort Anyone Who's Lost Their Mom.jpg" alt="to do list "></img>
+      <img src={`${process.env.PUBLIC_URL}/Thoughtful Quotes to Comfort Anyone Who's Lost Their Mom.jpg`} alt="to do list "></img>
     </div>
     <div className="back">
 <h2>My TO DO LIST </h2>
@@ -60,7 +60,7 @@ function Projects(){
 <a href="/"className="flip">
   <div className="inner">
     <div className="img">
-      <img src="/Forget Not.jpg" alt="reminder"></img>
+      <img src={`${process.env.PUBLIC_URL}/Forget Not.jpg`} alt="reminder"></img>
     </div>
     <div className="back">
       
@@ -74,7 +74,7 @@ function Projects(){
 <a href="/" class="flip">
   <div className="inner">
     <div className="img">
-      <img src="/Chinese language course in dhaka _ SHIELD LANGUAGE ACADEMY DHAKA.jpg" alt="HSK learning journy"></img>
+      <img src={`${process.env.PUBLIC_URL}/Chinese language course in dhaka _ SHIELD LANGUAGE ACADEMY DHAKA.jpg`} alt="HSK learning journy"></img>
     </div>
     <div className="back">
       <h2>HSK 1+2+3</h2>
@@ -85,7 +85,7 @@ function Projects(){
 <a href="/"className="flip">
   <div className="inner">
     <div className="img">
-      <img src="/Wishlist board cover.jpg" alt=" Wishlist "></img>
+      <img src={`${process.env.PUBLIC_URL}/Wishlist board cover.jpg`} alt=" Wishlist "></img>
     </div>
     <div className="back">
       <h2>Lara's 2025,2026 Wishlist</h2>
@@ -97,7 +97,7 @@ function Projects(){
 <a href="../capstone-project-create-portfolio/portfolio.html" className="flip">
   <div className="inner">
     <div className="img">
-      <img src="/Portfolio Cover1.png" alt="portfolio"></img>
+      <img src={`${process.env.PUBLIC_URL}/Portfolio Cover1.png`} alt="portfolio"></img>
     </div>
     <div className="back">
       <h2> Portfolio</h2>
@@ -108,7 +108,7 @@ function Projects(){
 <a href="/" class="flip">
   <div className="inner">
     <div className="img">
-      <img src="/download (3).jpg" alt="diary book "></img>
+      <img src= {`${process.env.PUBLIC_URL}/download (3).jpg`} alt="diary book "></img>
     </div>
     <div className="back">
       <h2> Diary </h2>
