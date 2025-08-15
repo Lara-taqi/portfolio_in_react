@@ -8,7 +8,7 @@ import Footer from './Components/Footer';
 
 
 function App() {
-  const routes=createHashRouter()
+ 
   return (
     <>
     <BrowserRouter>
