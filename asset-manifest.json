@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio_in_react/static/css/main.297fc7eb.css",
+    "main.js": "/portfolio_in_react/static/js/main.5f850322.js",
+    "static/js/453.c25f43ab.chunk.js": "/portfolio_in_react/static/js/453.c25f43ab.chunk.js",
+    "static/media/Free Photo _ High angle view of laptop and stationeries on blue background.jpg": "/portfolio_in_react/static/media/Free Photo _ High angle view of laptop and stationeries on blue background.efa367724d1f5ae3b863.jpg",
+    "static/media/Office desk working space - flat lay top view mockup photo of a working space with laptop _ Premium Photo.jpg": "/portfolio_in_react/static/media/Office desk working space - flat lay top view mockup photo of a working space with laptop _ Premium Photo.fd7555830a4dca906840.jpg",
+    "index.html": "/portfolio_in_react/index.html",
+    "main.297fc7eb.css.map": "/portfolio_in_react/static/css/main.297fc7eb.css.map",
+    "main.5f850322.js.map": "/portfolio_in_react/static/js/main.5f850322.js.map",
+    "453.c25f43ab.chunk.js.map": "/portfolio_in_react/static/js/453.c25f43ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297fc7eb.css",
+    "static/js/main.5f850322.js"
+  ]
+}
