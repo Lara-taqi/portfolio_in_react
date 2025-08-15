@@ -44,7 +44,7 @@ function Projects(){
         <section className="Projects" id="Projects">
         <h1>Projects</h1>
         <div class="cards row row-cols-1 row-cols-md-2 g-4">
- <a href="../to_do_list.html"className="flip">
+ <a href={`${process.env.PUBLIC_URL}/to_do_list.html`}className="flip">
   <div className="inner">
     <div className="img">
       <img src={`${process.env.PUBLIC_URL}/Thoughtful Quotes to Comfort Anyone Who's Lost Their Mom.jpg`} alt="to do list "></img>
@@ -94,7 +94,7 @@ function Projects(){
     </div>
   </div>
 </a>
-<a href="../capstone-project-create-portfolio/portfolio.html" className="flip">
+<a href={`${process.env.PUBLIC_URL}/capstone-project-create-portfolio/portfolio.html`} className="flip">
   <div className="inner">
     <div className="img">
       <img src={`${process.env.PUBLIC_URL}/Portfolio Cover1.png`} alt="portfolio"></img>
