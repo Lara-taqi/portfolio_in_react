@@ -21,7 +21,7 @@ scroll-margin-top: 80px;
 .dark-mode h1, 
 .dark-mode p, 
 .dark-mode a,
-.dark-mode section
+.dark-mode 
 {
   color: #ffffff;
 }
